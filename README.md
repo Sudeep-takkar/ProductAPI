@@ -1,2 +1,1 @@
-# ProductAPI
-API to manage products of a onlinestore.
+http://allaboutsudeep.com/dashboard-prod.github.io/
